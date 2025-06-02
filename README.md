@@ -21,7 +21,12 @@ Explored thread behavior and concurrency issues using POSIX threads:
 
 **Applied thread synchronization to resolve conflicts**
 
-Banker's Algorithm: Developed a simulation for the Banker's Algorithm to manage resource allocation and ensure system safety.
+3. ### Banker's Algorithm
+Developed a resource allocation simulation using the Banker's Algorithm:
+
+**Ensured deadlock avoidance and system safety**
+
+**Modeled dynamic resource requests and availability**
 
 4. ### Memory Management Techniques
 Implemented different memory allocation strategies to evaluate efficiency:
